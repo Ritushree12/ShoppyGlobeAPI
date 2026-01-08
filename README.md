@@ -88,3 +88,5 @@ All endpoints are prefixed with `http://localhost:5000`. Use Thunder Client or P
 ## Testing
 
 Use Thunder Client or Postman to test the endpoints. Include `Authorization: Bearer <token>` header for protected routes. Screenshots above show responses from Thunder Client testing.
+
+**GitHub Repository:** [https://github.com/Ritushree12/ShoppyGlobeAPI](https://github.com/Ritushree12/ShoppyGlobeAPI)
